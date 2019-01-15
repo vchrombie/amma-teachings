@@ -1,1 +1,2 @@
-# github-with-alexa
+# amma-teachings
+
